@@ -28,7 +28,7 @@
 
 💬 Ping me about Web Development, Lets grow together.
 
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vishal-blue?style=flat&logo=Linkedin&logoColor=white)]('https://linkedin.com/in/vishal-kumar-patel-01234521b') 
+
 
 <hr />
 
