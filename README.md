@@ -22,7 +22,7 @@
 
 👩‍💻 About Me :
 
-👋 I am Vishal Kumar Patel a Front End Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+👋 I am Vishal Kumar Patel a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 👨‍💻 Most of my projects are available on <a href="https://github.com/VishalKumarPatel1">Github</a>.
 
